@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大全
-#+DATE: 2015-09-23 09:40:10
-#+PROPERTY: JUAN 35
+#+DATE: 2015-08-24 22:15:40.142587
+#+PROPERTY: ID KR1e0074
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十五
 <pb:KR1e0074_WYG_035-1a>¶
 欽定四庫全書¶
 　春秋大全卷三十五¶
@@ -992,4 +994,3 @@
 (曰左氏云書不時告夫他國有事或過時而告於魯豈/有魯國城邑過時而告于廟可以揜其罪乎此非人情)¶
 (也/)¶
 　春秋大全卷三十五¶
-

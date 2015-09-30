@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大全
-#+DATE: 2015-09-23 09:40:10
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:15:39.815215
+#+PROPERTY: ID KR1e0074
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR1e0074_WYG_023-1a>¶
 欽定四庫全書¶
 　春秋大全卷二十三¶
@@ -740,4 +742,3 @@
 　¶
 　¶
 　春秋大全卷二十三¶
-
